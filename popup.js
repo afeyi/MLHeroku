@@ -10,7 +10,7 @@ form.addEventListener('submit', async (event) => {
 
   try {
  
-    const response = await fetch('http://localhost:5000/predict', {
+    const response = await fetch('https://lr-model-api-3e69b33339c3.herokuapp.com/predict', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
