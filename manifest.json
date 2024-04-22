@@ -10,7 +10,7 @@
       "default_popup": "popup.html"
     },
     "host_permissions": [
-      "https://lr-model-api-3e69b33339c3.herokuapp.com//"
+      "https://lr-model-api-3e69b33339c3.herokuapp.com/"
     ],
     "permissions": [
       "activeTab",
